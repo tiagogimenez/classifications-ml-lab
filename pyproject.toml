@@ -1,0 +1,12 @@
+[project]
+name = "classifications-ml-lab"
+version = "0.1.0"
+description = "Machine learning classification experiments"
+authors = [
+    { name = "Tiago Gimenez" }
+]
+# readme = "README.md"
+requires-python = ">=3.8"
+
+[tool.uv]
+# uv-specific settings can go here if needed in future
